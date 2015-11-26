@@ -1,13 +1,13 @@
 development:
   adapter: mysql
-  encoding: unicode
+  encoding: utf8
   database: visitmee_development
   pool: 5
   username: root
   password: bandana
 test:
   adapter: mysql
-  encoding: unicode
+  encoding: utf8
   database: visitmee_test
   pool: 5
   username: root
