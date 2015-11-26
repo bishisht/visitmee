@@ -1,16 +1,16 @@
 development:
-  adapter: postgresql
+  adapter: mysql
   encoding: unicode
-  database: myapp_development
+  database: visitmee_development
   pool: 5
-  username: bishisht
+  username: root
   password: bandana
 test:
-  adapter: postgresql
+  adapter: mysql
   encoding: unicode
-  database: myapp_test
+  database: visitmee_test
   pool: 5
-  username: bishisht
+  username: root
   password: bandana
 production:
   adapter: postgresql
