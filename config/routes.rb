@@ -6,7 +6,8 @@ Rails.application.routes.draw do
 
   devise_scope :user do
     get "sign_in", to: "devise/sessions#new"
-    get "sign_up", to: "devise/sessions#create"
+    # get "/sign_up" => "users/sessions#new", as: "new_user_registration"
   end
+
   root to: "home#index"
 end
