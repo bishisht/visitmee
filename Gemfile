@@ -19,3 +19,4 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem "font-awesome-rails"
 gem "therubyracer"
 gem 'devise'
+gem 'devise-bootstrap-views'
