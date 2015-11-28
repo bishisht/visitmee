@@ -1,0 +1,9 @@
+Puma starting in single mode...
+* Version 2.15.3 (ruby 2.2.2-p95), codename: Autumn Arbor Airbrush
+* Min threads: 0, max threads: 16
+* Environment: development
+* Listening on tcp://0.0.0.0:9292
+Use Ctrl-C to stop
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2015-11-27 21:36:30 +0545 ===
+- Goodbye!
